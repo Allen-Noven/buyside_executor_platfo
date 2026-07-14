@@ -1,0 +1,23 @@
+{
+    "order_id": "9f4e0c3b-de9c-42bd-97bf-00d640133d8b",
+    "symbol": "NVDA",
+    "side": "BUY",
+    "strategy": "TWAP",
+    "quantity": 1000.0,
+    "filled_quantity": 200.0,
+    "remaining_quantity": 800.0,
+    "completion_rate": 20.0,
+    "avg_fill_price": 172.17,
+    "arrival_price": 172.17,
+    "status": "COMPLETED",
+    "notional": 34434.0,
+    "created_at": "2026-06-29 07:56:21.862435-04:00",
+    "started_at": "2026-06-29 07:56:21.863270-04:00",
+    "completed_at": "2026-06-29 07:57:11.917855-04:00",
+    "halted_at": null,
+    "cancelled_at": null,
+    "failed_at": null,
+    "halt_reason": null,
+    "cancel_reason": null,
+    "failure_reason": null
+}

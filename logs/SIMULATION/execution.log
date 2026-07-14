@@ -1,0 +1,5 @@
+[INFO] [SIMULATION] 2026-06-29 23:15:11.233595-04:00 Execution Started | OrderID=8b09109d-f5af-43ef-afa0-ce79914faca0 | NVDA | TWAP | Qty=100.0 | Side=BUY | ArrivalPrice=169.04
+[INFO] [SIMULATION] 2026-06-29 23:15:11.286017-04:00 Child Order Executed | ParentOrderID=8b09109d-f5af-43ef-afa0-ce79914faca0 | BrokerOrderID=fake_9d6682cc-8202-4538-8db3-e5c7689669ab | NVDA | Side=BUY | Qty=20.0 | FillPrice=169.04
+[INFO] [SIMULATION] 2026-06-29 23:15:21.356902-04:00 Child Order Executed | ParentOrderID=8b09109d-f5af-43ef-afa0-ce79914faca0 | BrokerOrderID=fake_080d8d89-828e-42d4-bf45-f9055c22b365 | NVDA | Side=BUY | Qty=20.0 | FillPrice=168.74
+[INFO] [SIMULATION] 2026-06-29 23:15:31.491618-04:00 Execution Started | OrderID=afe72bb8-ef3e-4016-b54f-c3034d256b73 | NVDA | TWAP | Qty=100.0 | Side=BUY | ArrivalPrice=169.55
+[INFO] [SIMULATION] 2026-07-07 23:55:25.593433-04:00 Execution Started | OrderID=82b76338-3f34-4c40-bf79-3cd911412744 | NVDA | TWAP | Qty=100.0 | Side=BUY | ArrivalPrice=168.12
